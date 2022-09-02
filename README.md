@@ -3,7 +3,7 @@ A collection of cool things made by the Eludris comminity.
 
 ## Eludris (Project)
 
-- [Api Wrappers](#eludris-api-wrappers)
+- [API Wrappers](#eludris-api-wrappers)
 
 ### Eludris API wrappers
 

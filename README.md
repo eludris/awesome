@@ -13,7 +13,7 @@ A collection of cool things made by the Eludris comminity.
 - [pydris](https://github.com/EnokiUN/pydris): A simple but extremely powerful asynchronous wrapper for the Eludris API 
 
 ### Eludris Clients
-
+- [eludris-tui](https://github.com/SawshaDev/eludris-tui): A small TUI built for eludris in python
 - [eludris-flutter](https://github.com/teaishealthy/eludris-flutter): A mobile client for Eludris built in Flutter
 
 ## Cognite

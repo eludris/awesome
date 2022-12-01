@@ -13,7 +13,7 @@ Also check out the [Eludris community](https://github.com/eludris-community) git
 
 ### TypeScript/JavaScript
 
-- [evangeline](https://github.com/toolifelesstocode/evangeline)
+- [evangeline](https://github.com/toolifelesstocode/evangeline): An ~~maybe~~ working API wrapper for Eludris.
 
 ### Rust
 

@@ -1,23 +1,24 @@
-# Awesome
-A collection of cool things made by the Eludris comminity.
+# Awesome Eludris <img width="30em" src="https://cdn.discordapp.com/emojis/993856539674812486.webp?size=96&quality=lossless" />
 
-## Eludris (Project)
+A collection of cool things made by the Eludris commuinity.
 
-- [API Wrappers](#eludris-api-wrappers)
+Also check out the [Eludris community](https://github.com/eludris-community) github organisation!
 
-### Eludris API wrappers
+- [API Wrappers](#api-wrappers)
+  - [Typescript/Javascript](#typescriptjavascript)
+  - [Rust](#rust)
+- [Clients](#clients)
 
-#### Python
+## API wrappers
 
-- [eludris.py](https://github.com/teaishealthy/eludris.py): A simpler asynchronous wrapper for the Eludris API
-- [pydris](https://github.com/EnokiUN/pydris): A simple but extremely powerful asynchronous wrapper for the Eludris API 
-
-#### TypeScript/JavaScript
+### TypeScript/JavaScript
 
 - [evangeline](https://github.com/toolifelesstocode/evangeline)
 
-### Eludris Clients
-- [eluder](https://github.com/SawshaDev/eluder): A small TUI built for eludris in python
-- [eludris-flutter](https://github.com/teaishealthy/eludris-flutter): A mobile client for Eludris built in Flutter
+### Rust
 
-## Cognite
+- [Eludrs](https://github.com/eludris-community/eludrs)
+
+## Clients
+
+- [eludris_flutter](https://github.com/eludris-community/eludris_flutter): A cross-platform client for Eludris built in Flutter

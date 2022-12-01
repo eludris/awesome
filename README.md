@@ -14,7 +14,7 @@ A collection of cool things made by the Eludris comminity.
 
 #### TypeScript/JavaScript
 
-- [evangeline](https://github.com/toolifelesstocode/evangeline)
+- [evangeline](https://github.com/toolifelesstocode/evangeline): An API wrapper for Eludris.
 
 ### Eludris Clients
 - [eluder](https://github.com/SawshaDev/eluder): A small TUI built for eludris in python

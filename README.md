@@ -13,11 +13,11 @@ Also check out the [Eludris community](https://github.com/eludris-community) git
 
 ### TypeScript/JavaScript
 
-- [evangeline](https://github.com/toolifelesstocode/evangeline): An ~~maybe~~ working API wrapper for Eludris.
+- [evangeline](https://github.com/toolifelesstocode/evangeline): A ~~maybe~~ working API wrapper for Eludris.
 
 ### Rust
 
-- [Eludrs](https://github.com/eludris-community/eludrs)
+- [Eludrs](https://github.com/eludris-community/eludrs): A simple API wrapper for Eludris which uses tokio.
 
 ## Clients
 

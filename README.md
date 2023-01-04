@@ -32,7 +32,7 @@ Also check out the [Eludris community](https://github.com/eludris-community) git
 
 ### TypeScript/JavaScript
 
-- [evangeline](https://github.com/toolifelesstocode/evangeline): A ~~maybe~~ working API wrapper for Eludris.
+- [evangeline](https://github.com/eludris-community/evangeline): A ~~maybe~~ working API wrapper for Eludris.
 
 ## Clients
 

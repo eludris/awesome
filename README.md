@@ -16,7 +16,7 @@ Also check out the [Eludris community](https://github.com/eludris-community) git
 
 ### Dart
 
-- [enix](https://github.com/toolifelesstocode/evangeline): An API wrapper for Eludris in Dart.
+- [enix](https://github.com/eludris-community/enix): An API wrapper for Eludris in Dart.
 
 ### Go
 

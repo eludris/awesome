@@ -5,14 +5,20 @@ A collection of cool things made by the Eludris commuinity.
 Also check out the [Eludris community](https://github.com/eludris-community) github organisation!
 
 - [API Wrappers](#api-wrappers)
+  - [Crystal](#crystal)
   - [Dart](#dart)
   - [Go](#go)
   - [Python](#python)
   - [Rust](#rust)
   - [TypeScript/JavaScript](#typescriptjavascript)
+  - [V](#v)
 - [Clients](#clients)
 
 ## API wrappers
+
+### Crystal
+
+- [crudris](https://github.com/eludris-community/crudris): A Crystal API wrapper for interacting with the Eludris API.
 
 ### Dart
 
@@ -33,6 +39,11 @@ Also check out the [Eludris community](https://github.com/eludris-community) git
 ### TypeScript/JavaScript
 
 - [evangeline](https://github.com/eludris-community/evangeline): A ~~maybe~~ working API wrapper for Eludris.
+- [eludris-api-types-ts](https://github.com/eludris-community/eludris-api-types-ts): Simple type definitions for the Eludris API
+
+### V
+
+- [eludris.v](https://github.com/eludris-community/eludris.v): The V wrapper for Eludris?
 
 ## Clients
 

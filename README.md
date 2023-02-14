@@ -31,6 +31,7 @@ Also check out the [Eludris community](https://github.com/eludris-community) git
 ### Python
 
 - [velum](https://github.com/eludris-community/velum): An opinionated wrapper for the Eludris API written in Python.
+- [tetanus](https://github.com/SawshaDev/tetanus): A simple and easy to use wrapper around the Eludris API (And gateway) written in pure Python
 
 ### Rust
 

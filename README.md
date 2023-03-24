@@ -48,4 +48,4 @@ Also check out the [Eludris community](https://github.com/eludris-community) git
 
 ## Clients
 
-- [eludris_flutter](https://github.com/eludris-community/eludris_flutter): A cross-platform client for Eludris built in Flutter
+- [enid](https://github.com/eludris-community/enid): An Eludris client built with React and Chakra UI

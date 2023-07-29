@@ -40,6 +40,7 @@ Also check out the [Eludris community](https://github.com/eludris-community) git
 ### TypeScript/JavaScript
 
 - [evangeline](https://github.com/eludris-community/evangeline): A ~~maybe~~ working API wrapper for Eludris.
+- [eludris.js](https://github.com/eludris-community/eludris.js): A powerful library that allows you to interact with the Eludris API on every engine.
 - [eludris-api-types-ts](https://github.com/eludris-community/eludris-api-types-ts): Simple type definitions for the Eludris API
 
 ### V
@@ -48,4 +49,4 @@ Also check out the [Eludris community](https://github.com/eludris-community) git
 
 ## Clients
 
-- [enid](https://github.com/eludris-community/enid): An Eludris client built with React and Chakra UI
+- [enid](https://github.com/teaishealthy/enid): An Eludris client built with React and Chakra UI
